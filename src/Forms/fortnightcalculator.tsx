@@ -154,6 +154,6 @@ const formatHours = (inp:number):string=>{
     return Math.ceil(inp*60).toFixed(0) + " minutes";
   } else {
     const partialHour = inp - Math.floor(inp)
-    return `${Math.floor(inp).toFixed(0)} hours${Math.ceil(partialHour*60).toFixed(0)==="0"?"":" and "+Math.ceil(partialHour*60).toFixed(0) + "minutes"} `
+    return `${Math.floor(inp).toFixed(0)} hours${Math.ceil(partialHour*60).toFixed(0)==="0"?"":" and "+Math.ceil(partialHour*60).toFixed(0) + " minutes"} `
   }
 }

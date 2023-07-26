@@ -1,5 +1,5 @@
 import "./App.css";
-import {NationalInsurance} from "./Forms/fortnightcalculator";
+import {Fortnightcalculator} from "./Forms/fortnightcalculator";
 import {Box} from "@mui/material";
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 function App() {
@@ -13,8 +13,8 @@ function App() {
   })
   return (
     <ThemeProvider theme={theme}>
-    <Box>
-      <NationalInsurance />
+    <Box  style={{width:"90%"}}>
+      <Fortnightcalculator />
     </Box>
     </ThemeProvider>
   );
