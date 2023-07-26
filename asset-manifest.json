@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zelt-Fortnight-Calculator/static/css/main.5e1062de.css",
+    "main.js": "/Zelt-Fortnight-Calculator/static/js/main.de0aeedd.js",
+    "static/js/787.d0cc4ffd.chunk.js": "/Zelt-Fortnight-Calculator/static/js/787.d0cc4ffd.chunk.js",
+    "index.html": "/Zelt-Fortnight-Calculator/index.html",
+    "main.5e1062de.css.map": "/Zelt-Fortnight-Calculator/static/css/main.5e1062de.css.map",
+    "main.de0aeedd.js.map": "/Zelt-Fortnight-Calculator/static/js/main.de0aeedd.js.map",
+    "787.d0cc4ffd.chunk.js.map": "/Zelt-Fortnight-Calculator/static/js/787.d0cc4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e1062de.css",
+    "static/js/main.de0aeedd.js"
+  ]
+}
